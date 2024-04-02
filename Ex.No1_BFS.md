@@ -11,6 +11,8 @@ To write a python program to implement Breadth first Search.
 5. For each neighbor node, check node is not in visited then add node to visited and queue list.
 6.  Creating loop to print the visited node.
 7.   Call the bfs function by passing arguments visited, graph and starting node.
+
+
 ### Program:
 ```
 #breadth first Search in python 
