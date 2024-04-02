@@ -11,6 +11,7 @@ To write a python program to implement Depth first Search.
 5. For each neighbor node, recursively invoke the dfs search.
 6. Call the dfs function by passing arguments visited, graph and starting node.
 7. Stop the program.
+8. 
 ### Program:
 ```
 # Using a Python dictionary to act as an adjacency list
